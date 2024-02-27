@@ -1,0 +1,21 @@
+﻿  AABB.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Animation.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Bullet.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  NPC.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Player.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Sprite.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\Sprite.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureUtil.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Vector2f.cpp
+D:\ashit\maze\Windows-VS2019\SDL2-Project\SDL2includes.h(14,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
